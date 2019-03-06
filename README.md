@@ -4,5 +4,5 @@ The company wide open source policy for CSC - IT Center for Science describes th
 
 For the actual policy, see POLICY.md
 
-For license of the policy text, see LICENSE.md
+The policy is licensed under the terms of CC-BY 4.0. For full license text, see LICENSE.txt
 
