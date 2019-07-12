@@ -38,7 +38,7 @@ Use only proper open source licenses approved by OSI (https://opensource.org/lic
 
 Unless there are specific reasons to choose otherwise, use the permissive MIT license. This license can be used for all projects and software owned by CSC. It allows people to do anything they want with your code as long as they provide attribution back.
 
-The MIT license is also compatible with the GNU license, meaning that MIT licensed software can be integrated into GPL software, but not the other way around (https://en.wikipedia.org/wiki/MIT_License#cite_note-8),
+The MIT license is also compatible with the GNU General Public License, meaning that MIT licensed software can be integrated into GPL software, but not the other way around (https://en.wikipedia.org/wiki/MIT_License),
 
 ### 4.2. Copyleft: GPL license
 
@@ -86,4 +86,4 @@ If you use a copyleft license (GPL, AGPL or EUPL) or otherwise need more control
 
 Support for open sourcing your project is available from supervisors and contract management.
 
-_Accepted 28.9.2018 (revised 22.2.2019)_
+_Accepted 28.9.2018 (revised 12.7.2019 and 22.2.2019)_
