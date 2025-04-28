@@ -1,8 +1,8 @@
 # CSC open source policy
 
-CSC - IT Center for Science Ltd. embraces free and open source throughout its operations and development. Open source software, open data and open interfaces are considered to be the essential building blocks of sustainable digital ecosystems. The purpose of the company open source policy is to codify current de facto practices and to encourage employees to use and produce open source software. CSC believes that improved collaboration is the greatest benefit that open source can provide and for that reason this policy is written with emphasis on practices that facilitate smooth collaboration.
+CSC - IT Center for Science Ltd. embraces free and open source throughout its operations and development. Open source software, open data and open interfaces are considered to be the essential building blocks of sustainable digital ecosystems. The purpose of the company open source policy is to codify current de facto practices and to encourage employees to use and produce open source software. CSC believes that improved collaboration is the greatest benefit that open source can provide and for that reason this policy is written with emphasis on practices that encourage collaboration.
 
-The policy aims to be concise and practical, giving suggestions that align well with commonly accepted principles of the open source community. Please note the attached practical guidelines for licensing and publishing open source software at CSC.
+The policy aims to be concise and practical, giving suggestions that align well with commonly accepted principles of the open source community. For getting started quickly please have a look at the attached practical guidelines for licensing and publishing open source software at CSC (at the end of this document).
 
 ## 1. Use open source
 
@@ -38,7 +38,7 @@ Use only proper open source licenses approved by OSI (https://opensource.org/lic
 
 Unless there are specific reasons to choose otherwise, use the permissive MIT license. This license can be used for all projects and software owned by CSC. It allows people to do anything they want with your code as long as they provide attribution back.
 
-The MIT license is also compatible with the GNU General Public License, meaning that MIT licensed software can be integrated into GPL software, but not the other way around (https://en.wikipedia.org/wiki/MIT_License),
+The MIT license is also compatible with the GNU General Public License, meaning that MIT licensed software can be integrated into GPL software, but not the other way around (https://en.wikipedia.org/wiki/MIT_License).
 
 ### 4.2. Copyleft: GPL license
 
@@ -50,7 +50,7 @@ When considering a copyleft license, remember that combining pieces of software 
 
 ## 5. Publish your software together with the license
 
-Unless there are specific reasons to choose otherwise, use the popular GitHub repository to release and host code. Attach your project to the company organisation at GitHub (https://github.com/cscfi). Customers might have their own repositories to use so please check with them first.
+Unless there are reasons to choose otherwise, use the established GitHub repository to release and host code. Attach your project to the company organisation at GitHub (https://github.com/cscfi). Customers might have their own repositories to use so please check with them first.
 
 The license file should be attached and displayed following the practices set up by the repository. In addition to the license file, you should put a license and copyright notice at the start of each source file, stating what license it carries and who holds the copyright. This lessens the risk of the code getting disconnected from its license and reduces ambiguity when there are large programs and multiple releases.
 
@@ -62,9 +62,9 @@ The authors who have contributed to the code base should be noted unless they wi
 
 ## 7. Use Creative Commons license for non-software
 
-Unless there are specific reasons to choose otherwise, use the permissive Creative Commons BY 4.0 license (https://creativecommons.org/licenses/by/4.0/) for non-software, such as documentation, illustrations and data. This is the recommendation for public administration in Finland (http://www.jhs-suositukset.fi/suomi/jhs189).
+Unless there are specific reasons to choose otherwise, use the permissive Creative Commons BY 4.0 license (https://creativecommons.org/licenses/by/4.0/) for non-software, such as documentation, illustrations and data. This is the recommendation for public administration in Finland (https://www.avoindata.fi/data/fi/dataset/jhs189).
 
-For releasing and hosting the content, use the popular international repositories that are most relevant to your case. Small files are often best stored next to the code in GitHub.
+For releasing and hosting the content, use established international repositories that are most relevant to your case. Small files are often best stored next to code in GitHub.
 
 ## 8. Accept and encourage contributions
 
@@ -79,11 +79,11 @@ If you use a copyleft license (GPL, AGPL or EUPL) or otherwise need more control
 1. Determine the copyright holder (default: CSC)
 1. Add your project to GitHub (default organisation: CSCfi)
 1. Add the license file to the root of your repository (https://opensource.org/licenses/MIT)
-1. Check machine readability of your license with GitHub API (URL template: https://api.github.com/repos/org-name/repo-name﻿/license)
+1. Check that the license is identified by GitHub (is machine readable)
 1. Consider adding two elements to each source file of your program
    1. copyright notice stating who owns the copyright
    1. statement that the program is distributed under the terms of the chosen license
 
 Support for open sourcing your project is available from supervisors and contract management.
 
-_Accepted 28.9.2018 (revised 12.7.2019 and 22.2.2019)_
+_Accepted 28.9.2018. Revised 12.7.2019, 22.2.2019 and 28.4.2025_
